@@ -27,4 +27,7 @@ hasta el desarrollo full-stack.
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanFRG&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SanFRG&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanFRG&layout=compact&theme=default">
+</picture>
